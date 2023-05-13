@@ -1,6 +1,6 @@
 plugins {
     id 'com.android.library'
-    id 'maven-publish'   //添加maven publish插件，本地编译放开，上传jitPack需注释/**/
+//    id 'maven-publish'   //添加maven publish插件，本地编译放开，上传jitPack需注释/**/
 }
 
 android {
